@@ -12,6 +12,10 @@ body {
   text-align: center;
   padding: 20px 0;
 }
+.header img{
+  width: 200px;
+  height: auto;
+}
 
 h1 {
   font-size: 24px;
